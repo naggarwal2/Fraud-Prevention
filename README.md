@@ -4,6 +4,8 @@
 
 This project uses machine learning to detect fraudulent financial transactions. We clean the data, engineer meaningful features, train multiple models, and identify the best one for real-time deployment.
 
+## Dataset Used: https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022
+
 ## Problem
 
 Fraud is rare (~1%) but costly. Manual detection is slow and outdated. Can we automatically flag fraud before money is lost?
