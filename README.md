@@ -14,7 +14,7 @@ Fraud is rare (~1%) but costly. Manual detection is slow and outdated. Can we au
 
 - **Python**: pandas, scikit-learn, matplotlib  
 - **Models**: KNN, Decision Trees, Random Forest, Gradient Boosting, Logistic Regression  
-- **Extras**: Isolation Forest (outliers), ANOVA F-test (feature selection)
+- **Extras**: Isolation Forest (outliers), ANOVA F-test (feature selection), Hyperparameter Tuning
 
 ## Results
 
@@ -33,6 +33,10 @@ Fraud is rare (~1%) but costly. Manual detection is slow and outdated. Can we au
 - Deploy best model in real-time  
 - Add deep learning for complex fraud  
 - Enable continuous retraining
+
+ ## Credits
+
+- Built with love by Nitika Aggarwal
 
 
 
